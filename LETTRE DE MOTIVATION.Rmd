@@ -1,0 +1,52 @@
+---
+output:pdf_document:
+    latex_engine: xelatex
+header-includes:
+  - \usepackage{xcolor}
+  - \usepackage{fontawesome}
+  - \usepackage{graphicx}
+  - \pagestyle{empty}
+---
+![EDIMA BIYENDA HILDEGARDE](C:\HILDA.jpg){width=2cm}
+\definecolor{lavender}{HTML}{E6E6FA}
+
+\begin{center}
+\textcolor{lavender}{\LARGE\textbf{Votre Nom}} \\
+\textcolor{lavender}{Votre Adresse} | \faMobilePhone\ +221 77 871 99 82 | \faEnvelopeO\ Effiebugb@gmail.com \\
+\end{center}
+
+\hrulefill
+
+# Lettre de Motivation
+
+Dakar, le 13 mars 2024'
+
+A monsieur le Directeur \\
+Institut National de la Statistique (INS) \\
+Rue 40 MENGUE \\
+Yaoundé, BP. 1146 \\
+Cameroun
+
+\hrulefill
+
+OBJET : Demande de stage
+
+MONSIEUR,
+
+Je m'adresse à vous dans le cadre d'une demande de stage au sein de l'Institut National de la Statistique (INS) du Cameroun. Actuellement étudiante en Statistique et économie à l'Ecole nationale de la statistique et de l'analyse économique Pierre Diagne de Dakar, je suis passionnée par l'analyse des données et l'application des méthodes statistiques dans la résolution de problèmes concrets.
+
+Au cours de mon parcours académique, j'ai acquis des compétences solides en analyse statistique, en programmation et en manipulation de données. Je suis familiere avec des outils tels que R, Python et QGIS, et j'ai déjà eu l'occasion de les mettre en pratique lors de projets académiques. Je suis convaincue que ma passion pour les statistiques pourraient être mises à profit au sein de votre équipe à l'INS.
+
+Je suis particulièrement intéressée par l'analyse démographique. Je suis motivée à contribuer à vos projets et à apprendre de nouvelles techniques sous votre direction et celle de votre équipe.
+
+Je suis disponible pour un stage d'une durée de deux mois à partir du 02 Juillet. Je serais honorée de pouvoir discuter de ma candidature lors d'un entretien. Je reste à votre disposition pour toute information supplémentaire que vous pourriez avoir besoin.
+
+Je vous remercie de l'attention que vous porterez à ma candidature. Je suis enthousiaste à l'idée de pouvoir contribuer à l'INS du Cameroun et je suis convaincue que ce stage serait une opportunité enrichissante pour mon développement professionnel.
+
+Je vous prie d'agréer, monsieur le diecteur, l'expression de mes salutations distinguées.
+
+\bigskip
+
+Cordialement,
+
+EDIMA BIYENDA HILDEGARDE

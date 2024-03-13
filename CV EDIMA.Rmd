@@ -1,0 +1,52 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+header-includes:
+  - \usepackage{xcolor}
+  - \usepackage{fontawesome}
+  - \usepackage{graphicx}
+  - \pagestyle{empty}
+---
+
+\definecolor{lavender}{HTML}{E6E6FA}
+
+\begin{center}
+\textcolor{lavender}{\LARGE\textbf{Votre Nom}} \\
+\textcolor{lavender}{Votre Adresse} | \faMobilePhone\ +33 6 12 34 56 78 | \faEnvelopeO\ votre.email@example.com \\
+\end{center}
+
+\hrulefill
+
+# Lettre de Motivation
+
+Le [Date]
+
+[Prénom Nom du Directeur] \\
+Directeur \\
+Institut National de la Statistique (INS) \\
+[Adresse] \\
+[Ville, Code Postal] \\
+[Cameroun]
+
+\hrulefill
+
+Cher [Prénom Nom du Directeur],
+
+Je m'adresse à vous dans le cadre d'une demande de stage au sein de l'Institut National de la Statistique (INS) du Cameroun. Actuellement étudiant(e) en [Votre Domaine d'Études] à [Nom de votre Établissement], je suis passionné(e) par l'analyse des données et l'application des méthodes statistiques dans la résolution de problèmes concrets.
+
+Au cours de mon parcours académique, j'ai acquis des compétences solides en analyse statistique, en programmation et en manipulation de données. Je suis familier(e) avec des outils tels que R, Python et SQL, et j'ai déjà eu l'occasion de les mettre en pratique lors de projets académiques et de stages précédents. Je suis convaincu(e) que mon expertise technique et ma passion pour les statistiques pourraient être mises à profit au sein de votre équipe à l'INS.
+
+Je suis particulièrement intéressé(e) par [mentionnez un aspect spécifique du travail de l'INS, par exemple, la collecte de données, l'analyse démographique, etc.]. Je suis motivé(e) à contribuer à vos projets et à apprendre de nouvelles techniques sous votre direction et celle de votre équipe.
+
+Je suis disponible pour un stage d'une durée de [durée du stage] à partir du [date de début souhaitée]. Je serais honoré(e) de pouvoir discuter de ma candidature lors d'un entretien. Je reste à votre disposition pour toute information supplémentaire que vous pourriez avoir besoin.
+
+Je vous remercie de l'attention que vous porterez à ma candidature. Je suis enthousiaste à l'idée de pouvoir contribuer à l'INS du Cameroun et je suis convaincu(e) que ce stage serait une opportunité enrichissante pour mon développement professionnel.
+
+Je vous prie d'agréer, Cher [Prénom Nom du Directeur], l'expression de mes salutations distinguées.
+
+\bigskip
+
+Cordialement,
+
+[Votre Nom]
